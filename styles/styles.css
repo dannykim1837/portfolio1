@@ -147,7 +147,6 @@ grid-column: 6/10;
 grid-row: 2/3;
 box-shadow: 5px 5px 10px black;
 margin: auto;
-
 }
 
 .msg1{
@@ -157,7 +156,6 @@ margin: auto;
     grid-row: 4/5;
     box-shadow: 5px 5px 10px black;
     margin: auto;
-
     }
 .msg h2, .msg1 h2{
 color: white;
