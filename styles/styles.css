@@ -138,10 +138,13 @@ nav a {
 #background2 > h1{
     padding-top: 120px;
     text-align: center;
+    font-family: Kadam-Thmor-Pro;
 }
 #background2 > .goal{
     text-align: center;
     font-size: 20px;
+    font-family: Dosis;
+
 }
 footer {
     font-size: 1.2em;
@@ -306,10 +309,13 @@ padding-bottom: 15px;
     font-weight: lighter;
     margin-top: 20px;
     text-align: center;
+    font-family: Dosis;
 }
 .result{
     font-size: 23px;
     font-weight: bold;
+    font-family: Kadam-Thmor-Pro;
+
 }
 .elfsight-app-9760d0dd-4a7b-499f-93ab-0c1773d24223{
 grid-column: 2/10;
@@ -340,6 +346,7 @@ padding-right: 250px;
     font-size: 26px;
     text-align: center;
     margin-top: 30px;
+    font-family: Kadam-Thmor-Pro;
 }
 
 .main-content{
@@ -348,6 +355,8 @@ padding-right: 250px;
     margin-top: 50px;
     font-size: 40px;
     text-align: center;
+    font-family: Kadam-Thmor-Pro;
+    font-weight: bold;
 }
 
 .main-image{
