@@ -325,11 +325,11 @@ padding-right: 250px;
 .icons > li{
     height: 100px;
     flex: 1;
+    margin-right: 15px;
+
 }
 
-.icons > li:not(:last-child){
-    margin-right: 15px;
-}
+
 
 .icons > li > .card-img1{
     margin-top: 50px;
